@@ -12,8 +12,7 @@ void inp()
     {
         int x,y;
         cin>>x>>y;
-        g[x].push_back(y);
-        g[y].push_back(x);
+        
     }
     for(int i=i;i<=n;i++)
     {
